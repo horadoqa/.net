@@ -1,0 +1,15 @@
+/home/rfahham/projetos/.net/MeuApp/bin/Debug/net8.0/MeuApp
+/home/rfahham/projetos/.net/MeuApp/bin/Debug/net8.0/MeuApp.deps.json
+/home/rfahham/projetos/.net/MeuApp/bin/Debug/net8.0/MeuApp.runtimeconfig.json
+/home/rfahham/projetos/.net/MeuApp/bin/Debug/net8.0/MeuApp.dll
+/home/rfahham/projetos/.net/MeuApp/bin/Debug/net8.0/MeuApp.pdb
+/home/rfahham/projetos/.net/MeuApp/obj/Debug/net8.0/MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/rfahham/projetos/.net/MeuApp/obj/Debug/net8.0/MeuApp.AssemblyInfoInputs.cache
+/home/rfahham/projetos/.net/MeuApp/obj/Debug/net8.0/MeuApp.AssemblyInfo.cs
+/home/rfahham/projetos/.net/MeuApp/obj/Debug/net8.0/MeuApp.csproj.CoreCompileInputs.cache
+/home/rfahham/projetos/.net/MeuApp/obj/Debug/net8.0/MeuApp.sourcelink.json
+/home/rfahham/projetos/.net/MeuApp/obj/Debug/net8.0/MeuApp.dll
+/home/rfahham/projetos/.net/MeuApp/obj/Debug/net8.0/refint/MeuApp.dll
+/home/rfahham/projetos/.net/MeuApp/obj/Debug/net8.0/MeuApp.pdb
+/home/rfahham/projetos/.net/MeuApp/obj/Debug/net8.0/MeuApp.genruntimeconfig.cache
+/home/rfahham/projetos/.net/MeuApp/obj/Debug/net8.0/ref/MeuApp.dll

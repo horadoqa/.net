@@ -73,10 +73,12 @@ Aqui está um **exemplo básico de como criar um programa de console em .NET**, 
 
 Antes de começar, você precisa:
 
-* Instalar o **.NET SDK** (versão mais recente):
-  👉 [https://dotnet.microsoft.com/download](https://dotnet.microsoft.com/download)
-
 * Ter um editor de código (como o **Visual Studio Code**, **Visual Studio**, ou outro).
+
+* Fazer a Instalação
+
+[Windows](./Install/win.md)
+[Linux](./Install/linux.md)
 
 ---
 
@@ -113,7 +115,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Olá, mundo!");
+        Console.WriteLine("Hello, World!");
     }
 }
 ```
@@ -127,7 +129,7 @@ dotnet run
 📌 Saída esperada:
 
 ```
-Olá, mundo!
+Hello, World!
 ```
 
 ---
